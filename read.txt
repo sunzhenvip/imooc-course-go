@@ -5,6 +5,6 @@
 2、git config user.email "test@qq.com"
 3、git config user.name "test"
 4、git remote add origin https://github.com/sunzhenvip/imooc-course-go.git
-1、git add .
-2、git commit -m "xx提交内容"
-3、git config --local http.proxy 127.0.0.1:8889
+5、git add .
+6、git commit -m "xx提交内容"
+7、git config --local http.proxy 127.0.0.1:8889
