@@ -6,7 +6,6 @@
 *.dll
 *.so
 *.dylib
-.run
 *.pyc
 *.pyo
 
