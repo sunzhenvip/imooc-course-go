@@ -1,0 +1,1 @@
+{"level":"info","ts":1677414741.405739,"caller":"zip_log_file/main.go:29","msg":"failed to fetch URL{url 15 0 https://imooc.com <nil>} {attempt 11 3  <nil>} {backoff 8 1000000000  <nil>}"}
